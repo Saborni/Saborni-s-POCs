@@ -1,17 +1,14 @@
 {
-    "empId": 101,
     "empName": "Alan",
     "empSalary": 17500
 }
 
 {
-    "empId": 102,
     "empName": "Duke",
     "empSalary": 29000
 }
 
 {
-    "empId": 103,
     "empName": "Oleg",
     "empSalary": 69000
 }
