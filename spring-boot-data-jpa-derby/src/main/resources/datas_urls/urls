@@ -1,0 +1,7 @@
+http://localhost:61001/employee/count
+http://localhost:61001/employee/add
+http://localhost:61001/employee/view
+http://localhost:61001/employee/view/101
+http://localhost:61001/employee/update/101
+http://localhost:61001/employee/delete
+http://localhost:61001/employee/delete/101
