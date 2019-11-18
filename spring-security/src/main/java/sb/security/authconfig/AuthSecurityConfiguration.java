@@ -31,13 +31,21 @@ public class AuthSecurityConfiguration extends WebSecurityConfigurerAdapter {
 
     @Override
     public void configure(HttpSecurity http) throws Exception {
-        http.authorizeRequests()
+        /*http.authorizeRequests()
                 .anyRequest()
                 .authenticated()
                 .and()
                 .formLogin()
+                .failureHandler(customAuthenticationFailureHandler());*/
+        http.authorizeRequests()
+                .antMatchers("/authsec/user").hasRole("USER")
+                .antMatchers("/authsec/admin").hasRole("ADMIN")
+                .antMatchers("/authsec/all").permitAll()
+                .and()
+                .formLogin()
                 .failureHandler(customAuthenticationFailureHandler());
     }
+
     protected void configure(AuthenticationManagerBuilder auth) throws Exception {
         auth.inMemoryAuthentication()
                 .withUser("admin")

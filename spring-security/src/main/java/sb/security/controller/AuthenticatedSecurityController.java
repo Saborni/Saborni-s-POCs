@@ -10,9 +10,22 @@ import java.util.Date;
 @RestController
 public class AuthenticatedSecurityController {
 
-    @GetMapping(value="/message")
+    @GetMapping(value="/admin")
+    public String getMessageAdmin(){
+        return "<h1>Welcome Admin with secured authentication " +
+                "at : "+ new Date()+"</h1>";
+    }
+
+    @GetMapping(value="/user")
+    public String getMessageUser(){
+        return "<h1>Welcome User with secured authentication " +
+                "at : "+ new Date()+"</h1>";
+    }
+
+    @GetMapping(value="/all")
     public String getMessage(){
-        return "<h1>Welcome with secured authentication at : "+ new Date()+"</h1>";
+        return "<h1>Welcome to all with unauthorized access " +
+                "at : "+ new Date()+"</h1>";
     }
 
 }
