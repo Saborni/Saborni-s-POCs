@@ -1,0 +1,2 @@
+http://localhost:8100/price/karat/14/grams/2
+http://localhost:8100/price/karat/22/grams/2

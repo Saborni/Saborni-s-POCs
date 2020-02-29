@@ -1,0 +1,2 @@
+http://localhost:8081/rate/14
+http://localhost:8081/rate/22
