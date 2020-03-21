@@ -1,0 +1,2 @@
+http://localhost:8080/send
+http://localhost:8080/receive
