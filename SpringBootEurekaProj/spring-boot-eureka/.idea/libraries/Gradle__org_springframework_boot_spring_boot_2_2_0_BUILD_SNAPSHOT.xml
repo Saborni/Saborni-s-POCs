@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: org.springframework.boot:spring-boot:2.2.0.BUILD-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://D:/gradle-5.0/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/2.2.0.BUILD-SNAPSHOT/a725865baa87da0587efcb0d2480bd48a31daaeb/spring-boot-2.2.0.BUILD-SNAPSHOT.jar!/" />
+      <root url="jar://D:/gradle-5.0/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/2.2.0.BUILD-SNAPSHOT/6eada14f596c1c5925df0769e7131c092344454d/spring-boot-2.2.0.BUILD-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://D:/gradle-5.0/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/2.2.0.BUILD-SNAPSHOT/de61c2babb0b1b212ea5ebac26b3cedd237a2dbb/spring-boot-2.2.0.BUILD-SNAPSHOT-sources.jar!/" />
+      <root url="jar://D:/gradle-5.0/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/2.2.0.BUILD-SNAPSHOT/a0422dc030cea5c47cb002619dfbbcafc60fa625/spring-boot-2.2.0.BUILD-SNAPSHOT-sources.jar!/" />
+      <root url="jar://D:/gradle-5.0/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/2.2.0.BUILD-SNAPSHOT/a1a323733df9b920e61b26e0df50a0c81fce11dc/spring-boot-2.2.0.BUILD-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

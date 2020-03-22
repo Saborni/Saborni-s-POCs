@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.springframework.cloud:spring-cloud-loadbalancer:2.2.3.BUILD-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://D:/gradle-5.0/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-loadbalancer/2.2.3.BUILD-SNAPSHOT/99c9427e0edb21846dde660dfa9e941ec180d7cb/spring-cloud-loadbalancer-2.2.3.BUILD-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://D:/gradle-5.0/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-loadbalancer/2.2.3.BUILD-SNAPSHOT/b67d9d3ca4982041eb07c01c76e90c088f565fd0/spring-cloud-loadbalancer-2.2.3.BUILD-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

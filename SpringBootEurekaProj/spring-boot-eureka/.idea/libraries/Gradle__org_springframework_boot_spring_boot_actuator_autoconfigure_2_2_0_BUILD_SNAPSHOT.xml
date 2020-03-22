@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: org.springframework.boot:spring-boot-actuator-autoconfigure:2.2.0.BUILD-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://D:/gradle-5.0/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-actuator-autoconfigure/2.2.0.BUILD-SNAPSHOT/c94e4616932904d8504d3cd5d9a6437d6cef0216/spring-boot-actuator-autoconfigure-2.2.0.BUILD-SNAPSHOT.jar!/" />
+      <root url="jar://D:/gradle-5.0/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-actuator-autoconfigure/2.2.0.BUILD-SNAPSHOT/955d1eb809f65fe0283c221f1b4b5ff8409e9054/spring-boot-actuator-autoconfigure-2.2.0.BUILD-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://D:/gradle-5.0/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-actuator-autoconfigure/2.2.0.BUILD-SNAPSHOT/320f6eca384f1d285b20cda13f34b647c2ae58b8/spring-boot-actuator-autoconfigure-2.2.0.BUILD-SNAPSHOT-sources.jar!/" />
+      <root url="jar://D:/gradle-5.0/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-actuator-autoconfigure/2.2.0.BUILD-SNAPSHOT/8f69798ab0564f42799ca7d961fcad3d3140947a/spring-boot-actuator-autoconfigure-2.2.0.BUILD-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

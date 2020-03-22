@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.springframework.boot:spring-boot-starter-freemarker:2.2.0.BUILD-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://D:/gradle-5.0/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-freemarker/2.2.0.BUILD-SNAPSHOT/e7d523e5ccdc3b6fd52c26db41a701fea764e05/spring-boot-starter-freemarker-2.2.0.BUILD-SNAPSHOT.jar!/" />
+      <root url="jar://D:/gradle-5.0/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-freemarker/2.2.0.BUILD-SNAPSHOT/f0fbb6a44fa21d5f7070e58e5f00c7eb7738c761/spring-boot-starter-freemarker-2.2.0.BUILD-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://D:/gradle-5.0/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-freemarker/2.2.0.BUILD-SNAPSHOT/10b44476f048667bf43a1edee196023fe3b361c6/spring-boot-starter-freemarker-2.2.0.BUILD-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

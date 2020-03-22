@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.springframework.security:spring-security-rsa:1.0.9.RELEASE">
+    <CLASSES>
+      <root url="jar://D:/gradle-5.0/caches/modules-2/files-2.1/org.springframework.security/spring-security-rsa/1.0.9.RELEASE/7a506772756fe7669fa9538e7f195f832fab8559/spring-security-rsa-1.0.9.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://D:/gradle-5.0/caches/modules-2/files-2.1/org.springframework.security/spring-security-rsa/1.0.9.RELEASE/55fcc1c814877eeed95354ca9c5af8085cd90162/spring-security-rsa-1.0.9.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

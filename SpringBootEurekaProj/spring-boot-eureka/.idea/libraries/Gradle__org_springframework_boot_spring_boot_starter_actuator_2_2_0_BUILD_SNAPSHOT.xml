@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.springframework.boot:spring-boot-starter-actuator:2.2.0.BUILD-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://D:/gradle-5.0/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-actuator/2.2.0.BUILD-SNAPSHOT/92a6255dca53e40a6383fd7443e7d64016736c50/spring-boot-starter-actuator-2.2.0.BUILD-SNAPSHOT.jar!/" />
+      <root url="jar://D:/gradle-5.0/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-actuator/2.2.0.BUILD-SNAPSHOT/5b49daef8d5995858ca53b26c86a2da66656b867/spring-boot-starter-actuator-2.2.0.BUILD-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://D:/gradle-5.0/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-actuator/2.2.0.BUILD-SNAPSHOT/e71fada477e72527e65f23e9ff9e400d853f5712/spring-boot-starter-actuator-2.2.0.BUILD-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
