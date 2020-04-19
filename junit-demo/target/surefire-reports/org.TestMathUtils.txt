@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: org.TestMathUtils
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 1, Errors: 0, Skipped: 1, Time elapsed: 0.16 s <<< FAILURE! - in org.TestMathUtils
+org.TestMathUtils.displaynamedemo  Time elapsed: 0.01 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: This will fail
+	at org.TestMathUtils.displaynamedemo(TestMathUtils.java:48)
+
