@@ -1,0 +1,14 @@
+<cargo>
+    <carriercode>VA</carriercode>
+    <aircraftcode>1122</aircraftcode>
+    <origin>CCU</origin>
+    <destination>MAA</destination>
+    <departure>
+        <dtime>1400</dtime>
+        <ddate>10MAY20</ddate>
+    </departure>
+    <arrival>
+        <atime>2000</atime>
+        <adate>10MAY20</adate>
+    </arrival>
+</cargo>
