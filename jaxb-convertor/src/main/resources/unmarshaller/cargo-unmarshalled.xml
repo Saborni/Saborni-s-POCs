@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cargo>
+    <carrierCode>XX</carrierCode>
+    <dest>DEL</dest>
+    <flightNumber>6666</flightNumber>
+    <org>BOM</org>
+</cargo>

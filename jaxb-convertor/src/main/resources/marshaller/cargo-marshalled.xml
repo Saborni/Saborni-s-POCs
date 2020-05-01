@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cargo>
+    <carrierCode>VS</carrierCode>
+    <dest>MAA</dest>
+    <flightNumber>1122</flightNumber>
+    <org>CCU</org>
+</cargo>
