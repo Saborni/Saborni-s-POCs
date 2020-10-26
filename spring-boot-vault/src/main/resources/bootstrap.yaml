@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: spring-boot-vault
+  cloud:
+    vault:
+      kv:
+        enabled: true
+      scheme: http
+      token: 12345
