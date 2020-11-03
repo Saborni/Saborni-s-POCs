@@ -1,0 +1,25 @@
+spring:
+  profiles:
+    active: chaos-monkey
+chaos:
+  monkey:
+    enabled: true
+    assaults:
+      exceptionsActive: false
+      killApplicationActive: true
+      latencyActive: false
+      #latencyRangeStart: 5000
+      #latencyRangeEnd: 8000
+      level: 1
+    watcher:
+      component: false
+      controller: false
+      repository: false
+      restController: false
+      service: true
+management:
+  endpoint:
+    chaosmonkey:
+      enabled: true
+    chaosmonkeyjmx:
+      enabled: true

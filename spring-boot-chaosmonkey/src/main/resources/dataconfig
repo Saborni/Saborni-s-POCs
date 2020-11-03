@@ -1,0 +1,21 @@
+http://localhost:8080/chaosmonkey/assaults
+
+{
+	"latencyRangeStart": 2000,
+	"latencyRangeEnd": 5000,
+	"latencyActive": true,
+	"exceptionsActive": false,
+	"killApplicationActive": false
+}
+
+{
+	"latencyActive": false,
+	"exceptionsActive": true,
+	"killApplicationActive": false
+}
+
+{
+	"latencyActive": false,
+	"exceptionsActive": false,
+	"killApplicationActive": true
+}
