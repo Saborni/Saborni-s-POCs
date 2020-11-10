@@ -1,0 +1,10 @@
+consul agent -server -bootstrap-expect=1 -data-dir=consul-data -ui -bind=192.168.1.100
+
+http://localhost:8080/order/placeOrder
+
+{
+	"id":1,
+	"name":"Headset",
+	"quantity":10,
+	"price":7500
+}

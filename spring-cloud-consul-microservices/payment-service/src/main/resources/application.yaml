@@ -1,0 +1,18 @@
+spring:
+  application:
+    name: payment-service
+  h2:
+    console:
+      enabled: true
+      path: /h2-console/
+  datasource:
+    driverClassName: 'org.h2.Driver'
+    url: 'jdbc:h2:mem:testdb'
+    username: 'sa'
+  jpa:
+    database-platform: 'org.hibernate.dialect.H2Dialect'
+springspring:
+  datasource:
+    password: ''
+server:
+  port: 8087

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f9e0bb25-570d-4c4c-bffa-ca90ed9122e9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1jzwgKZmHMJY39l3mk6CoMOs1Vv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/payment-service" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.PaymentServiceApplication">
+    <configuration name="OrderServiceApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="order-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="xyz.lnews.orderservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="xyz.lnews.orderservice.OrderServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-cloud-consul-microservices" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="xyz.lnews.orderservice.OrderServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
+      <module name="order-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="xyz.lnews.orderservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="xyz.lnews.orderservice.OrderServiceApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="payment-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="xyz.lnews.paymentservice.PaymentServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.PaymentServiceApplication" />
+      <item itemvalue="Spring Boot.OrderServiceApplication" />
+      <item itemvalue="Spring Boot.OrderServiceApplication (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.OrderServiceApplication (1)" />
+        <item itemvalue="Spring Boot.OrderServiceApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f9e0bb25-570d-4c4c-bffa-ca90ed9122e9" name="Default Changelist" comment="" />
+      <created>1604820337844</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604820337844</updated>
+      <workItem from="1604820346532" duration="164000" />
+      <workItem from="1604821123368" duration="1166000" />
+      <workItem from="1604826509033" duration="4209000" />
+      <workItem from="1604859109659" duration="655000" />
+      <workItem from="1605024411954" duration="2227000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604828844844">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1604828844844" />
+    <state x="549" y="156" key="FileChooserDialogImpl" timestamp="1604821166124">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="156" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1604821166124" />
+    <state width="1493" height="89" key="GridCell.Tab.0.bottom" timestamp="1605029398574">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="89" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605029398574" />
+    <state width="1493" height="89" key="GridCell.Tab.0.center" timestamp="1605029398574">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="89" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605029398574" />
+    <state width="1493" height="89" key="GridCell.Tab.0.left" timestamp="1605029398574">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="89" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605029398574" />
+    <state width="1493" height="89" key="GridCell.Tab.0.right" timestamp="1605029398574">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="89" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605029398574" />
+    <state width="1493" height="89" key="GridCell.Tab.1.bottom" timestamp="1605029398574">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="89" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605029398574" />
+    <state width="1493" height="89" key="GridCell.Tab.1.center" timestamp="1605029398574">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="89" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1605029398574" />
+    <state width="1493" height="89" key="GridCell.Tab.1.left" timestamp="1605029398574">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="89" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1605029398574" />
+    <state width="1493" height="89" key="GridCell.Tab.1.right" timestamp="1605029398574">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="89" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1605029398574" />
+    <state x="439" y="122" key="NewModule_or_Project.wizard" timestamp="1604821167483">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="439" y="122" key="NewModule_or_Project.wizard/0.0.1536.824@0.0.1536.824" timestamp="1604821167483" />
+    <state x="209" y="79" key="new project wizard" timestamp="1604820515935">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="79" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1604820515935" />
+  </component>
+</project>
